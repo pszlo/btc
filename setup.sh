@@ -5,8 +5,8 @@ pip install certifi;
 pip install chardet;
 pip install ecdsa;
 pip install idna;
-pip instal requests;
-pip instal six;
-pip instal urllib3;
+pip install requests;
+pip install six;
+pip install urllib3;
 
 

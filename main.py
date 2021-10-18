@@ -19,7 +19,7 @@ parser.add_argument(
     "--savedry",
     help="save empty wallets",
     action="store_true",
-    default=True,
+    default=False,
 )
 parser.add_argument(
     "-p",

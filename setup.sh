@@ -18,6 +18,7 @@ pip3 install ecdsa;
 pip3 install idna;
 pip3 install requests;
 pip3 install six;
-pip3 install urllib3
+pip3 install urllib3;
+
 
 

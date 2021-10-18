@@ -1,5 +1,5 @@
-apt-get install python3;
-apt-get install pip;
+apt-get install python3 -y;
+apt-get install pip -y;
 pip install base58;
 pip install certifi;
 pip install chardet;

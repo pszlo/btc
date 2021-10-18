@@ -1,3 +1,4 @@
+apt-get update
 apt-get install python3 -y;
 apt-get install python-pip -y
 apt-get install pip -y;
